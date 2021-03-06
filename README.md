@@ -1,4 +1,7 @@
 ### Hi there 👋
+Im yasin and I'm an Android developer.
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: @mryas on telegram
 
 <!--
 **yasdpt/yasdpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
