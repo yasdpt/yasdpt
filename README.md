@@ -1,6 +1,5 @@
 ### Hi there 👋
-Im yasin and I'm an Android developer.
-- 🌱 I’m currently learning Flutter
+I'm yasin and I'm a Flutter developer.
 - 📫 How to reach me: @mryas on telegram
 
 <!--
