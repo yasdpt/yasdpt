@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I’m Yasin and I’m a Flutter developer.<br>Currently working on personal projects and learning new things.<br><br>📫 How to reach me: fouladiyas@gmail.com
+Hi there 👋<br>I’m Yasin and I’m a Fullstack developer.<br>Currently working on personal projects and learning new things.<br><br>📫 How to reach me: fouladiyas@gmail.com
 
 
 ## 🌐 Socials:
